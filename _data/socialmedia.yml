@@ -24,9 +24,9 @@
 #  title: "YouTube Google+"
 
 - name: Facebook
-   url: http://www.facebook.com/amazingloving
-   class: icon-facebook
-   title: "Personal Facebook"
+  url: http://www.facebook.com/amazingloving
+  class: icon-facebook
+  title: "Personal Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
