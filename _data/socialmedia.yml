@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/ambrosiak
   class: icon-github
-  title: Code and more...
+  title: "Code and more..."
 
 - name: YouTube
   url: http://www.youtube.com/ambrosiak
@@ -23,7 +23,7 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
- - name: Facebook
+- name: Facebook
    url: http://www.facebook.com/amazingloving
    class: icon-facebook
    title: "Personal Facebook"
